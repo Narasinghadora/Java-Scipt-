@@ -1,1 +1,1 @@
-Java Scrip Assignment and Proctice
+Java Script Assignment and Proctice
