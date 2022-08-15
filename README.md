@@ -1,1 +1,1 @@
-# Java-Scipt-
+Java Scrip Assignment and Proctice
